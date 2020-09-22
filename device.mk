@@ -26,6 +26,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Snap
 
+# Lights
+PRODUCT_PACKAGES += \
+    android.hardware.light@2.0-service.RMX1941
+
 # Display
 PRODUCT_PACKAGES += \
     libvulkan \
