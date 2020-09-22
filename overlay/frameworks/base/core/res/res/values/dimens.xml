@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<!-- Height of the status bar -->
-    <dimen name="status_bar_height_portrait">20.0dip</dimen>
-    <dimen name="status_bar_height_landscape">21.0dip</dimen>
+    <dimen name="status_bar_height_portrait">22.0dip</dimen>
+    <dimen name="status_bar_height_landscape">23.0dip</dimen>
  
     <!-- Rounded corner padding and radius -->
     <dimen name="rounded_corner_radius_top">10.0px</dimen>
